@@ -6,5 +6,5 @@ Class {
 
 { #category : #versions }
 ClassInRepositoryWithTags >> version [
-	^ 1
+	^ 2
 ]
